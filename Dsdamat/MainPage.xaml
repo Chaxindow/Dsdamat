@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Dsdamat.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="white" Padding="10" CornerRadius="0">
+            <Label Text="D'S damat" HorizontalTextAlignment="Center" TextColor="#04004F" FontSize="36" FontFamily="wilmina"/>
+        </Frame>
+        
+        </StackLayout>
+
+</ContentPage>
